@@ -7,7 +7,7 @@ Initialized with a dictionary of word possibilities and a numeric input, the t9 
 ## Installation
 
 ```bash
-npm install t9
+npm i t9.js
 ```
 
 ## Usage
