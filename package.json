@@ -1,0 +1,28 @@
+{
+  "name": "t9.js",
+  "version": "1.0.0",
+  "description": "A predictive phone pad spelling tool.",
+  "main": "t9.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hytea/T9.JS.git"
+  },
+  "keywords": [
+    "t9",
+    "phone",
+    "spelling",
+    "predictive"
+  ],
+  "author": "Andrew Hyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hytea/T9.JS/issues"
+  },
+  "homepage": "https://github.com/hytea/T9.JS#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
